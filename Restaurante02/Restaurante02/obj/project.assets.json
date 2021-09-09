@@ -8564,24 +8564,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\moliveira\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\marcu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\moliveira\\Desktop\\MillTec\\Dia 11\\Restaurante02\\Restaurante02\\Restaurante02.csproj",
+      "projectUniqueName": "C:\\Users\\marcu\\OneDrive\\Área de Trabalho\\dia11\\Restaurante02\\Restaurante02\\Restaurante02.csproj",
       "projectName": "Restaurante02",
-      "projectPath": "C:\\Users\\moliveira\\Desktop\\MillTec\\Dia 11\\Restaurante02\\Restaurante02\\Restaurante02.csproj",
-      "packagesPath": "C:\\Users\\moliveira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\moliveira\\Desktop\\MillTec\\Dia 11\\Restaurante02\\Restaurante02\\obj\\",
+      "projectPath": "C:\\Users\\marcu\\OneDrive\\Área de Trabalho\\dia11\\Restaurante02\\Restaurante02\\Restaurante02.csproj",
+      "packagesPath": "C:\\Users\\marcu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\marcu\\OneDrive\\Área de Trabalho\\dia11\\Restaurante02\\Restaurante02\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\moliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\marcu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
