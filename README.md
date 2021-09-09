@@ -1,4 +1,6 @@
 # Restaurante02-CRUD
+![alt text](https://github.com/marcusrolimcc/Restaurante02-CRUD/blob/master/der-restaurante.png)
+
 User history:
 
 
@@ -26,4 +28,4 @@ Considerando a user history acima desenvolva os seguintes passos:
 
 Ao terminar envie uma imagem do DER, o script do banco de dados e o projeto, tudo compactado por zip.
 
-![alt text]https://github.com/marcusrolimcc/Restaurante02-CRUD/blob/master/der-restaurante.png
+
