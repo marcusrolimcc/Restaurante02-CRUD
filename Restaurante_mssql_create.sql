@@ -57,6 +57,7 @@ alter table Ingrediente alter column validade datetime not null
 
 update Funcionario set nome = 'Joao da Silva', cpf = '25147896321'
 
+insert into Restaurante(nome) values ('Master Cheff')
 insert into Funcionario(nome, email, cpf, salario, id_restaurante) values ('Joao da Silva', 'joao@gmail.com', '25147896321', 900, 2)
 insert into Funcionario(nome, email, cpf, salario, id_restaurante) values ('Paula Rocha', 'paula@gmail.com', '25415456321', 1100, 2)
 insert into Funcionario(nome, email, cpf, salario, id_restaurante) values ('Fernando Oliveira', 'feroli@gmail.com', '85412532214', 1200, 2)
